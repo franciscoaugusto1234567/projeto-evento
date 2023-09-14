@@ -1,4 +1,2 @@
 # projeto-evento
-descrição aqui
-
-teste
+PROJETO EVENTO FEITO PARA SE INSCREVER NO MEETUP MARISTA
