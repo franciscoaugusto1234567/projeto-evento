@@ -64,7 +64,7 @@ Não use a mangueira para lavar o carro — opte por baldes, que evitam o desper
   - [ ] nao ler a pagina
   - [x] se importa com o futuro
  
-      > ## Nosso futuro nao so depende mim mas de todos nos, vamos economizar, pensar no meio ambiente.
+      > ## Nosso futuro nao so depende mim mas de todos nos, vamos economizar, pensar no meio ambiente..
  
 
 
