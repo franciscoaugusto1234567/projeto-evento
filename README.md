@@ -5,7 +5,7 @@
 <h1><h1>
 =======
 
-![tela](Pl)
+![tela](agua.jpg)
 
 >ECONOMIZE AGUA
 
@@ -50,7 +50,7 @@ Infiltrações e vazamentos podem acontecer sem que você perceba e representar 
 * > ### Feche bem as torneiras
 Torneira vazando é fácil de perceber e pode desperdiçar até 40 litros de água por dia. Se perceber esse problema, é fundamental realizar a troca ou o conserto. Se a resolução for demorar alguns dias, não deixe de recolher a água para que seja possível reutilizá-la. 
 
-* > ### Lave o carro com baldes
+## Lave o carro com baldes
 Não use a mangueira para lavar o carro — opte por baldes, que evitam o desperdício. Outra forma de economizar é a ecolavagem, que deixa o veículo limpo e protegido com menos de um litro de água. Basta ter dois panos de microfibra, um shampoo especial para lavagem e um borrifador com 400 ml de água.
 
 
@@ -67,7 +67,7 @@ Não use a mangueira para lavar o carro — opte por baldes, que evitam o desper
   - [ ] nao ler a pagina
   - [x] se importa com o futuro
  
-      > ## Nosso futuro nao so depende mim mas de todos nos, vamos economizar, pensar no meio ambiente..
+      > ## Nosso futuro nao so depende de mim mas de todos nos, vamos economizar, pensar no meio ambiente..
  
 
 
