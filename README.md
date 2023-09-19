@@ -2,12 +2,9 @@
 > # projeto um mundo melhor
 
 
-<h1><h1>
-=======
 
-![tela](agua.jpg)
+![Alt text](img/agua.jpg)
 
->ECONOMIZE AGUA
 
 * ## funcoes e sua importancia
 * A água tem papel fundamental não só para matar a sede, mas principalmente, para produzir alimentos e outros artigos
